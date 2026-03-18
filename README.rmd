@@ -1,3 +1,5 @@
 Run this by putting pu -3.11 main.py in Terminal
 
 It's just Fireboy and Watergirl
+
+**Note: This commit is the original state of the code I get.**
